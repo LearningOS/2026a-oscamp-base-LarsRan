@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-LarsRan",
-  "commit": "3ab44b323e18978e25d1aa48d8bfa0476d9ff90f",
-  "score": 15,
+  "commit": "d4584783ef32d9ee627bd3235c98aed187ab9610",
+  "score": 19,
   "totalScore": 100,
   "exercises": [
     {
@@ -37,9 +37,9 @@
     {
       "name": "mem_primitives",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "bump_allocator",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "LarsRan",
-  "runId": "36507813442",
+  "runId": "36562689413",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }

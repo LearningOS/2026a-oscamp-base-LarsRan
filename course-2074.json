@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-LarsRan",
-  "commit": "e9d899910c094892aff14618d42a722af10fbe9c",
-  "score": 51,
+  "commit": "257ba2b54b817df03f03e161fcd00497ccd47037",
+  "score": 60,
   "totalScore": 100,
   "exercises": [
     {
@@ -93,16 +93,16 @@
     {
       "name": "spinlock_guard",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "rwlock",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "stack_coroutine",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "LarsRan",
-  "runId": "37721120311",
+  "runId": "37722088168",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
